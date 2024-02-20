@@ -1,7 +1,7 @@
-package array;
+package basic_intro.array;
 /*
 every index == seperate memory block //index represents a memory block in cpu
--> 2D array
+-> 2D basic_intro.array
 new int[row][column] == new int[3][5]
 {row1,row2,row3} == {index0,index1,index2}
 

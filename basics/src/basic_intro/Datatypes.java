@@ -1,4 +1,4 @@
-package intro;
+package basic_intro;
 
 //datatype - type of data that is going to store in memory block
 //variable - a temporary name that refers a memory block. to access it uniquely

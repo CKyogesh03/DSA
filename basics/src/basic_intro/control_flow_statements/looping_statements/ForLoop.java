@@ -1,4 +1,4 @@
-package intro.control_flow_statements.looping_statements;
+package basic_intro.control_flow_statements.looping_statements;
 
 /*
     to run the same statement multiple times. duplicate codes no needed. eg: print name 5 times

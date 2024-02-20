@@ -1,4 +1,4 @@
-package intro.control_flow_statements.decision_making_statements;
+package basic_intro.control_flow_statements.decision_making_statements;
 
 public class If {
     public static void main(String[] args) {

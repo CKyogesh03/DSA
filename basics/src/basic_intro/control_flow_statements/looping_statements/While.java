@@ -1,4 +1,4 @@
-package intro.control_flow_statements.looping_statements;
+package basic_intro.control_flow_statements.looping_statements;
 
 public class While {
     public static void main(String[] args) {
