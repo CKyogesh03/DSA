@@ -1,0 +1,8 @@
+1. j is running infinitely.  when printing center star
+     for (int i=1;i<=n;i++){
+           // j is running infinite times
+            for (int j=0;j<i+j;j++){
+                System.out.print(i+j);
+            }
+            System.out.println();
+        }

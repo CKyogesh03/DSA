@@ -1,0 +1,5 @@
+if littlebit increase ->
+smaller to larger
+larger to smaller
+multiplying
+doubling
