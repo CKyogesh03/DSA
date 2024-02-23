@@ -6,3 +6,8 @@
             }
             System.out.println();
         }
+2.
+        for (int i=1;i<=i;i++) //
+        for (int j=1;j<i+j;i++) // not allowed in RHS of condition check
+        for (int i=1;i*i<=n;i++) // allowed local variable to use in LHS of condition
+        //and not allowed to use in RHS of condition

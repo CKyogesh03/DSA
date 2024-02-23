@@ -1,0 +1,7 @@
+base condition:
+start=5, end=5
+start==end // stops recursion execution // 5th operation not occurred
+start>=end // 5th not executed
+start>end // 5th executed then 6th not executed
+
+passing variables:
